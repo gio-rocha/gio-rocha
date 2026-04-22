@@ -9,6 +9,8 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/giovanna-rmrs)
+[![Gmail](https://img.shields.io/badges/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:giovanna.rmrs25@gmail.com)
+
 
 
 </div>
