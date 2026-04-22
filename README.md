@@ -2,7 +2,9 @@
 
 # Giovanna Rocha
 
-*Geógrafa (UFRJ) | Pós-graduanda em Perícia e Auditoria Ambiental | SIG | Geoprocessamento com Python | Análise Geoespacial e Projeções Climáticas* | **Open to Work**
+*Geógrafa (UFRJ)* 🌎 | *Pós-graduanda em Perícia e Auditoria Ambiental* 🌳 | *SIG | Geoprocessamento com Python | Análise Geoespacial e Projeções Climáticas* 🌦️|
+
+**Open to Work!** 👩🏻‍💻
 
 
 
@@ -13,7 +15,7 @@
 
 ---
 
-### Sobre mim
+### 👋🏻 Sobre mim
 Geógrafa bacharel pela Universidade Federal do Rio de Janeiro (UFRJ), com experiência em análise de mudanças climáticas. Atualmente, sou pós-graduanda em Perícia e Auditoria Ambiental pela UniCesumar, aprofundando conhecimentos em avaliação ambiental, análise técnica e suporte à tomada de decisão.
 
 Tenho experiência na manipulação de grandes bases de dados utilizando Python, com foco em apoiar estudos de mudanças climáticas e gerar informações relevantes para a compreensão dos cenários futuros para a América do Sul e Brasil. Participei de projetos de pesquisa, extensão e monitoria acadêmica, desenvolvendo habilidades analíticas, organização de informações técnicas e comunicação científica. 
@@ -22,7 +24,7 @@ Interesso-me especialmente por aplicações de geotecnologias e ciência de dado
 
 ---
 
-### Tecnologia e Ferramentas
+### 💻 Tecnologia e Ferramentas 
 
 <p align="center">
 
@@ -33,13 +35,13 @@ Interesso-me especialmente por aplicações de geotecnologias e ciência de dado
 
 ---
 
-### Projetos
+### 📂 Projetos
 <table  style="font-family:Ubuntu;">
   <tr align="center">
-  <th style="background-color: #110080;color:white">Mapas Temáticos com Python<center><//th>
-  <th style="background-color:#110080;color:white"><center>Mapas de Localização com Python</center></th>
-  <th style="background-color:#110080;color:white"><center>Projeções Climáticas com modelos CMIP6 para o Brasil</center></th>
-  <th style="background-color: #110080;color:white"><center>Projeções Climáticas com modelo EC-Earth3 (CMIP6) para América do Sul</center></th></<tr>
+  <th style="background-color: #110080;color:white">🗺️Mapas Temáticos com Python<center><//th>
+  <th style="background-color:#110080;color:white"><center>📍Mapas de Localização com Python</center></th>
+  <th style="background-color:#110080;color:white"><center>🌦️Projeções Climáticas com modelos CMIP6 para o Brasil</center></th>
+  <th style="background-color: #110080;color:white"><center>🌦️Projeções Climáticas com modelo EC-Earth3 (CMIP6) para América do Sul</center></th></<tr>
    
 
   <tr>
