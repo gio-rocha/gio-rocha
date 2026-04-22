@@ -44,7 +44,7 @@ Interesso-me especialmente por aplicações de geotecnologias e ciência de dado
 
   <tr>
    <th style="background:black"><center><a href="https://github.com/gio-rocha/brazil-climate-projections-cmip6" style="color:white;">Clique aqui</a></center></th>
-   <th style="background:black"><center><a href="https://github.com/gio-rocha/south-america-EC-Earth3-projections-cmip6" style="color:white;">Click aqui</a></center></th>
+   <th style="background:black"><center><a href="https://github.com/gio-rocha/south-america-EC-Earth3-projections-cmip6" style="color:white;">Clique aqui</a></center></th>
    <th style="background:black"><center><a href="https://github.com/gio-rocha/Location-maps-with-Python" style="color:white;">Clique aqui</a></center></th>
    <th style="background:black"><center><a href="https://github.com/gio-rocha/Thematic-maps-with-Python" style="color:white;">Clique aqui</a></center></th>
   </tr>
