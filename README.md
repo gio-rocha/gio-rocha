@@ -36,10 +36,10 @@ Interesso-me especialmente por aplicações de geotecnologias e ciência de dado
 ### Projetos
 <table  style="font-family:Ubuntu;">
   <tr align="center">
-   <th style="background-color:#110080;color:white"><center>Brazil Climate Projections CMIP6</center></th>
-   <th style="background-color: #110080;color:white"><center> South America EC Earth3 Projections CMIP6</center></th>
-   <th style="background-color:#110080;color:white"><center>Location Maps with Python</center></th>
-   <th style="background-color: #110080;color:white">Thematic maps with Python<center></th>
+   <th style="background-color:#110080;color:white"><center>Projeções Climáticas com modelos CMIP6 para o Brasil</center></th>
+   <th style="background-color: #110080;color:white"><center>Projeções Climáticas com modelo EC-Earth3 (CMIP6) para América do Sul</center></th>
+   <th style="background-color:#110080;color:white"><center>Mapas de Localização com Python</center></th>
+   <th style="background-color: #110080;color:white">Mapas Temáticos com Python<center></th>
   </tr>
 
   <tr>
